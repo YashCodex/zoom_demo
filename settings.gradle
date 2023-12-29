@@ -1,0 +1,4 @@
+rootProject.name = 'flutter_zoom'
+
+include ':flutter_zoom'
+project(":flutter_zoom").projectDir = file("libs")
